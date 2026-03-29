@@ -23,7 +23,7 @@ When you work with [Claude Code](https://claude.ai/code), your context lives in 
 
 ## Demo
 
-Open `claude_md_viewer.html` directly in your browser → [Live demo via GitHub Pages](https://visioncreativeflow.github.io/claude-md-viewer/)
+Open `claude_md_viewer.html` directly in your browser → [Live demo via GitHub Pages](https://virgil-libria.github.io/claude-md-viewer/)
 
 ---
 
